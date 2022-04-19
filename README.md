@@ -1,1 +1,3 @@
-# sc-20-react-native-basic
+# React Native Basics (Ongoing)
+
+Refernce - Prawito
