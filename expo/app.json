@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "react-native-AwesomeProject",
+    "slug": "react-native-AwesomeProject",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/default/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./src/assets/default/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/default/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./src/assets/default/favicon.png"
+    }
+  }
+}
